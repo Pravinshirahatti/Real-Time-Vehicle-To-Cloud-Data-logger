@@ -1,5 +1,5 @@
 /*
-  NLPC EV Safety & Diagnostics — ESP32 Firmware
+  
   ================================================
   Dual publish: Blynk IoT dashboard + MQTT → Spring Boot backend → PostgreSQL
 
